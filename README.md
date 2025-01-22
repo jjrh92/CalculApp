@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jjrh92/CalculApp">
-    <img src="https://img.icons8.com/?size=48&id=41LOFTWPsRas&format=png" alt="Logo" width="200" height="200">
+    <img src="https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/School-Clipart/Calculator_Transparent_PNG_Clipart.png?m=1629833138" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Welcome - Bienvenid@</h3>
