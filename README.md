@@ -16,7 +16,7 @@
 <h3 align="center">Welcome - Bienvenid@</h3>
 
   <p align=center">
-    Bender
+    CalculApp
     <br />
     <br />
     <a href="https://calculapp.julioreyes.dev">View Demo - Ver Demo</a>
